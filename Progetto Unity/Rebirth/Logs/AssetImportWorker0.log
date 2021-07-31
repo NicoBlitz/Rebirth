@@ -1,0 +1,343 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1110; Version 2009; 64bit' Language: 'it' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57645
+Successfully changed project path to: D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth
+D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56072
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002239 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 21.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000705 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.781100 ms (FindLiveObjects: 0.133200 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.531500 ms  DeleteObjects: 0.075800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6a1853b736837ecfb0820a881449cb') in 0.003978 seconds
+  Import took 0.015419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.256777 seconds.
+  path: Assets/Tilt Exports
+  artifactKey: Guid(cf1a92edd69abc74bb6a5241d8849163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports using Guid(cf1a92edd69abc74bb6a5241d8849163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bc66c54f2f12d68fba5ee0cefe633c') in 0.002633 seconds
+  Import took 0.010332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.347111 seconds.
+  path: Assets/Tilt Exports/PELLE_CORPO_TUTTO[1].glb
+  artifactKey: Guid(1fbd9026f697db14d8b42dbe7e674ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/PELLE_CORPO_TUTTO[1].glb using Guid(1fbd9026f697db14d8b42dbe7e674ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe231d3fa49e1e819a6167b48ab1d7b') in 0.032997 seconds
+  Import took 0.040084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.675172 seconds.
+  path: Assets/Tilt Exports/PELLE_CAPELLI_FACCIA_BRACCIA[1].glb
+  artifactKey: Guid(29796f83c22a3684f92b8f483b7846fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/PELLE_CAPELLI_FACCIA_BRACCIA[1].glb using Guid(29796f83c22a3684f92b8f483b7846fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7604e7d5ee68acf9ff08378c61a22f0c') in 0.002826 seconds
+  Import took 0.050840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.437411 seconds.
+  path: Assets/Tilt Exports/Parto-Occhi_bocca_tette_utero[1].glb
+  artifactKey: Guid(23f5f96f28645264097873333c2b8143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-Occhi_bocca_tette_utero[1].glb using Guid(23f5f96f28645264097873333c2b8143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6376d07cdf243636d77edeb4c45dddf') in 0.002729 seconds
+  Import took 0.004467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.476963 seconds.
+  path: Assets/Tilt Exports/Parto-Gambe_corpo[1].glb
+  artifactKey: Guid(a2189a590fa997243bd0ac9d333bbf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-Gambe_corpo[1].glb using Guid(a2189a590fa997243bd0ac9d333bbf41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723b736ecbe68c2d6deefd0a8e9cb78c') in 0.003705 seconds
+  Import took 0.013764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.550188 seconds.
+  path: Assets/Tilt Exports/Parto-corpo_da_finire_capelli[1].glb
+  artifactKey: Guid(a4e0fbb533faacb4eb53505f0c33a122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-corpo_da_finire_capelli[1].glb using Guid(a4e0fbb533faacb4eb53505f0c33a122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f62f579b9ec0b48cfc2abc619869fa') in 0.002900 seconds
+  Import took 0.004890 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003951 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.605 seconds
+Platform modules already initialized, skipping
+Shader 'Brush/Special/CelVinyl': fallback shader 'Unlit/Diffuse' not found
+Shader 'Brush/Special/Unlit': fallback shader 'Unlit/Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1252 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.0 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 5.916100 ms (FindLiveObjects: 0.117900 ms CreateObjectMapping: 0.033700 ms MarkObjects: 1.267300 ms  DeleteObjects: 4.496400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.265642 seconds.
+  path: Assets/Tilt Exports/Parto-corpo_da_finire_capelli[1].glb
+  artifactKey: Guid(a4e0fbb533faacb4eb53505f0c33a122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-corpo_da_finire_capelli[1].glb using Guid(a4e0fbb533faacb4eb53505f0c33a122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1141d22175bb73c964d3bc6d2f9dcf3f') in 0.637861 seconds
+  Import took 0.688914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Tilt Exports/PELLE_DI_FACCIA_MANI[1].glb
+  artifactKey: Guid(b70546683203fd546aa2ee9b8aedf75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/PELLE_DI_FACCIA_MANI[1].glb using Guid(b70546683203fd546aa2ee9b8aedf75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d51df07d22db1f862c678ada6196f0') in 0.308899 seconds
+  Import took 0.313155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000819 seconds.
+  path: Assets/Tilt Exports/Parto-Tunnel_cuore_polmoni[1].glb
+  artifactKey: Guid(725b197c8a07e2c448074f47c35241d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-Tunnel_cuore_polmoni[1].glb using Guid(725b197c8a07e2c448074f47c35241d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c33e5a58549bd76f468763bc2072f815') in 0.681825 seconds
+  Import took 0.687959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Tilt Exports/Parto-Mani_e_viso_peloso[1].glb
+  artifactKey: Guid(96df480d1aedc884b8d2631a5d6767ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-Mani_e_viso_peloso[1].glb using Guid(96df480d1aedc884b8d2631a5d6767ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c6c0f1c65d8944bd3c7fde7a3859dc') in 0.557750 seconds
+  Import took 0.561728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Tilt Exports/Parto-Infermiera_da_finire[1].glb
+  artifactKey: Guid(bb8b61602b0553543999cc3949349d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Parto-Infermiera_da_finire[1].glb using Guid(bb8b61602b0553543999cc3949349d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a595adb9b280e06c342269dca1bef4') in 0.257226 seconds
+  Import took 0.261393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Tilt Exports/PELLE_CAPELLI_FACCIA_BRACCIA[1].glb
+  artifactKey: Guid(29796f83c22a3684f92b8f483b7846fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/PELLE_CAPELLI_FACCIA_BRACCIA[1].glb using Guid(29796f83c22a3684f92b8f483b7846fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f078922d98c1b0a3edb8b610dcfa557') in 0.131085 seconds
+  Import took 0.136114 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002974 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1483 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 78.7 MB.
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 1907.
+Total: 5.589700 ms (FindLiveObjects: 0.209000 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.809600 ms  DeleteObjects: 3.518600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 849.753784 seconds.
+  path: Assets/ThirdParty/TiltBrushToolkitThirdParty.asmdef
+  artifactKey: Guid(56ceeb69b3820614298ba3264a0d0180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/TiltBrushToolkitThirdParty.asmdef using Guid(56ceeb69b3820614298ba3264a0d0180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d1336b9d8940a597981a1e33458fc1') in 0.009228 seconds
+  Import took 0.012117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.382231 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/AllBrushes.asset
+  artifactKey: Guid(2b3e59298bb8cfc47bddd1e1ea01be06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/AllBrushes.asset using Guid(2b3e59298bb8cfc47bddd1e1ea01be06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77eb8cda3d3d38168e60b48613aa5a4a') in 0.095086 seconds
+  Import took 0.102350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.561228 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic
+  artifactKey: Guid(02e7509562ea74d65a8d6ae3d32a61eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic using Guid(02e7509562ea74d65a8d6ae3d32a61eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a72bb9eeb8324dfbd0d2f171272627') in 0.002645 seconds
+  Import took 0.005424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.339725 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/CoarseBristlesSingleSided
+  artifactKey: Guid(55c48f5b982f74c8f8e56dc6231d813b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/CoarseBristlesSingleSided using Guid(55c48f5b982f74c8f8e56dc6231d813b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d65323db90c7604709023461a2a8e09') in 0.002948 seconds
+  Import took 0.005555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051946 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/CoarseBristlesSingleSided/CoarseBristles_0.asset
+  artifactKey: Guid(07ab675df8bcbd148809e406fcd485fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/CoarseBristlesSingleSided/CoarseBristles_0.asset using Guid(07ab675df8bcbd148809e406fcd485fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5eeea68759ec42ab454569600695d8') in 0.009760 seconds
+  Import took 0.014683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/CoarseBristlesSingleSided/CoarseBristles_0.mat
+  artifactKey: Guid(79168f106961464a8be157ed364c5600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/CoarseBristlesSingleSided/CoarseBristles_0.mat using Guid(79168f106961464a8be157ed364c5600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7340c506525942395f439b2b18e593b7') in 0.210355 seconds
+  Import took 0.212943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.340533 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Leaves
+  artifactKey: Guid(b0761f8bc1bd1a54e914d8e875a22d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Leaves using Guid(b0761f8bc1bd1a54e914d8e875a22d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '125cdb93385ea5739c9c2e7fa2f4d7f6') in 0.003324 seconds
+  Import took 0.005691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052533 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Leaves/leaves.png
+  artifactKey: Guid(3743071a0f034424390b1aa53dda0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Leaves/leaves.png using Guid(3743071a0f034424390b1aa53dda0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb74107035771eeb9febb9a59c51e38') in 0.015819 seconds
+  Import took 0.018397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Leaves/normal.png
+  artifactKey: Guid(735a5f2fd14c4764682ef32fc6822de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Leaves/normal.png using Guid(735a5f2fd14c4764682ef32fc6822de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca784c5410669501b17f4df9a4d9e27') in 0.012551 seconds
+  Import took 0.014618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.298761 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Leaves/leaves.png
+  artifactKey: Guid(3743071a0f034424390b1aa53dda0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Leaves/leaves.png using Guid(3743071a0f034424390b1aa53dda0d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1631aa2933dfb5fc33fd1540f1c6af53') in 0.014045 seconds
+  Import took 0.020554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.208350 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Dots
+  artifactKey: Guid(0a31e800d4b353d4d8f6631e850a83ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Dots using Guid(0a31e800d4b353d4d8f6631e850a83ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccf504f42af9865aa9deb8a7ef71df36') in 0.006262 seconds
+  Import took 0.009259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056142 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.asset
+  artifactKey: Guid(7f2dcdb5c7d9fc94db14b323331d5860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.asset using Guid(7f2dcdb5c7d9fc94db14b323331d5860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a231708dacd8f69db4cf965d8b0fb6') in 0.009917 seconds
+  Import took 0.013566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Dots/maintexture.png
+  artifactKey: Guid(f54d138cbc195f142a9994593db7876a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Dots/maintexture.png using Guid(f54d138cbc195f142a9994593db7876a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e3669be4a71b139c29eaed5b474c14') in 0.010057 seconds
+  Import took 0.013349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.mat
+  artifactKey: Guid(6a1cf9f9032c45ec9b1da6680bee30f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.mat using Guid(6a1cf9f9032c45ec9b1da6680bee30f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4deb05f151a0025d3068fddb97a33c40') in 0.020826 seconds
+  Import took 0.024269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.568197 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.shader
+  artifactKey: Guid(732f16cce31764a49a67b2c782bf444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.shader using Guid(732f16cce31764a49a67b2c782bf444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674fae57d17af7da6f1cf0a7985caa15') in 0.005481 seconds
+  Import took 0.009479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.428288 seconds.
+  path: Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.shader
+  artifactKey: Guid(732f16cce31764a49a67b2c782bf444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TiltBrush/Assets/Brushes/Basic/Dots/Dots.shader using Guid(732f16cce31764a49a67b2c782bf444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674fae57d17af7da6f1cf0a7985caa15') in 0.006060 seconds
+  Import took 0.008719 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
