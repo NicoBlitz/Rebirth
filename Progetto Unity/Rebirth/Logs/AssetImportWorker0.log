@@ -1,0 +1,151 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1237; Version 2009; 64bit' Language: 'it' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57620
+Successfully changed project path to: D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth
+D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/VIDEOS/CORTI/REBIRTH/Rebirth/Progetto Unity/Rebirth/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002391 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.061 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.976 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.8 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 3461.
+Total: 6.281800 ms (FindLiveObjects: 0.467000 ms CreateObjectMapping: 0.225400 ms MarkObjects: 2.324800 ms  DeleteObjects: 3.262400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Tilt Exports/Untitled_3.glb
+  artifactKey: Guid(a7989a62e323a1845928b8ffcafbc9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_3.glb using Guid(a7989a62e323a1845928b8ffcafbc9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc954b0f0266abbf394ecf99bd2cc52a') in 1.347269 seconds
+  Import took 1.352889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Tilt Exports/Untitled_12.glb
+  artifactKey: Guid(112ffb176ae4efd41a1ff65e4952b21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_12.glb using Guid(112ffb176ae4efd41a1ff65e4952b21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6901cd5d4ca3cfdf6c843f96ed8adc1e') in 0.487160 seconds
+  Import took 0.493005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Tilt Exports/Untitled_6.glb
+  artifactKey: Guid(4f3a5d2a84c727d41bd303a93eb52e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_6.glb using Guid(4f3a5d2a84c727d41bd303a93eb52e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1edbce3469487865f0ffe6b35277436') in 0.171358 seconds
+  Import took 0.177318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Tilt Exports/Untitled_16.glb
+  artifactKey: Guid(a7bc823bcabf2584d866d9c98c392388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_16.glb using Guid(a7bc823bcabf2584d866d9c98c392388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad7da1f367b2214758df6ce34dad444') in 0.134195 seconds
+  Import took 0.139516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Tilt Exports/Untitled_3.glb
+  artifactKey: Guid(a7989a62e323a1845928b8ffcafbc9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_3.glb using Guid(a7989a62e323a1845928b8ffcafbc9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc954b0f0266abbf394ecf99bd2cc52a') in 0.133274 seconds
+  Import took 0.139053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Tilt Exports/Untitled_10.glb
+  artifactKey: Guid(a8b515a2afea4c34080fc4f179822d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_10.glb using Guid(a8b515a2afea4c34080fc4f179822d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b472701087a026306ddac4d9b3910515') in 0.139247 seconds
+  Import took 0.145668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tilt Exports/Untitled_7.glb
+  artifactKey: Guid(88d7eb934eaded446ba2c994b42c1345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_7.glb using Guid(88d7eb934eaded446ba2c994b42c1345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41389f3995c8454c84c1ffc98539a9d4') in 0.166981 seconds
+  Import took 0.172909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Tilt Exports/Untitled_15.glb
+  artifactKey: Guid(d377ad74db5955644a1657cf44843852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_15.glb using Guid(d377ad74db5955644a1657cf44843852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ac9055bcd7dd3b5bfd61f0c4e13acb') in 0.118718 seconds
+  Import took 0.123685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.005705 seconds.
+  path: Assets/Tilt Exports/Untitled_0.glb
+  artifactKey: Guid(4b81e22a2bff87f45a2000cb729f24bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_0.glb using Guid(4b81e22a2bff87f45a2000cb729f24bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084bc38db6ae1826882c5c7b9fdd7908') in 0.003209 seconds
+  Import took 0.008166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004956 seconds.
+  path: Assets/Tilt Exports/Untitled_0.glb
+  artifactKey: Guid(4b81e22a2bff87f45a2000cb729f24bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilt Exports/Untitled_0.glb using Guid(4b81e22a2bff87f45a2000cb729f24bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084bc38db6ae1826882c5c7b9fdd7908') in 0.002997 seconds
+  Import took 0.007939 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
